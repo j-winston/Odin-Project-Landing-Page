@@ -33,7 +33,7 @@ body {
     font-weight: bolder;
     padding: 100px;
     gap: 30px;
-    background-image: linear-gradient url("./hero_pic.jpg");
+    background-image: linear-gradient url("./images/hero_pic.jpg");
 }
 
 
@@ -125,7 +125,7 @@ li {
 
 .quote-section {
     background-color: #020101e5;
-    background-image: url("/home/james/repos/landing-page/preillumination-seth-ok4GGk3KUzU-unsplash.jpg");
+    background-image: url("./images/preillumination-seth-ok4GGk3KUzU-unsplash.jpg");
     background-size: 50%;
     background-repeat: no-repeat;
 
